@@ -24,5 +24,8 @@
     <ClCompile Include="operator_IO_overloading.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_operator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
