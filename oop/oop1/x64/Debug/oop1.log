@@ -1,0 +1,3 @@
+﻿  student_operator_system.cpp
+E:\C++\c++\oop\oop1\student_operator_system.cpp(61,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  oop1.vcxproj -> E:\C++\c++\oop\oop1\x64\Debug\oop1.exe
