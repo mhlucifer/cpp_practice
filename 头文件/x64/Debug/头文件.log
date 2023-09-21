@@ -1,0 +1,5 @@
+﻿  test.cpp
+  test2.cpp
+E:\C++\练习\头文件\test2.cpp(14,5): error C3861: “quick_sort”: 找不到标识符
+E:\C++\练习\头文件\test2.cpp(21,47): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码...

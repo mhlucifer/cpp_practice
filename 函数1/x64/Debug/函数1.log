@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\C++\练习\函数1\test.cpp(14,10): error C2660: “sum”: 函数不接受 2 个参数
+E:\C++\练习\函数1\test.cpp(8,5): message : 参见“sum”的声明
+E:\C++\练习\函数1\test.cpp(14,10): message : 尝试匹配参数列表“(int, int)”时
+E:\C++\练习\函数1\test.cpp(14,7): error C2088: “<<”: 对于 class 非法
