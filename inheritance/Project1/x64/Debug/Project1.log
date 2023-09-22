@@ -1,2 +1,3 @@
-﻿  constructor_inheritance.cpp
-  Project1.vcxproj -> E:\C++\C++\CPP_Primer\inheritance\Project1\x64\Debug\Project1.exe
+﻿  practice.cpp
+  LINK : 没有找到 E:\C++\C++\cpp_practice\inheritance\Project1\x64\Debug\Project1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Project1.vcxproj -> E:\C++\C++\cpp_practice\inheritance\Project1\x64\Debug\Project1.exe
