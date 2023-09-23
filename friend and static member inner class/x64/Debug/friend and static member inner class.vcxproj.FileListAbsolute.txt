@@ -1,0 +1,1 @@
+E:\C++\C++\cpp_practice\friend and static member inner class\x64\Debug\friend and static member inner class.exe

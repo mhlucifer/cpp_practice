@@ -6,11 +6,7 @@ private:
 	int ID;
 	string name;
 public:
-	emp(int n,string m)
-	{
-		this->ID = n;
-		this->name = m;
-	}
+	emp(int n, string m) :ID(n), name(m) {};
 	void setid(int n)
 	{
 		ID = n;
@@ -35,10 +31,7 @@ class fullstudent:public emp
 private:
 	double salary;
 public:
-	fullstudent(int n,string s,double d) :emp(n,s)
-	{
-		this->salary = d;
-	}
+	fullstudent(int n, string s, double d) :emp(n, s), salary(d) {}
 	double getsalary()
 	{
 		return salary;
