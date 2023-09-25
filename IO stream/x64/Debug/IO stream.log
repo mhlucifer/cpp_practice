@@ -1,0 +1,3 @@
+﻿  serialization.cpp
+E:\C++\C++\cpp_practice\IO stream\serialization.cpp(51,6): warning C4101: “x”: 未引用的局部变量
+  IO stream.vcxproj -> E:\C++\C++\cpp_practice\IO stream\x64\Debug\IO stream.exe
