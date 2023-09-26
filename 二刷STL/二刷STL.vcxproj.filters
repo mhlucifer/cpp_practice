@@ -75,5 +75,14 @@
     <ClCompile Include="内建函数对象_逻辑仿函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="常用遍历算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用排序算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
